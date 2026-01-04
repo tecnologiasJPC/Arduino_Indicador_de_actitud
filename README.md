@@ -1,4 +1,4 @@
-Verify these conenctions are correctly done for arduino board and perifericos.
+Verify these connections  are correctly done for arduino board and perifericos.
 ![circuito](circuito.jpg)
 
 Instructional video available on youtube
