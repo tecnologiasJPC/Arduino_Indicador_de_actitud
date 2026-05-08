@@ -1,5 +1,6 @@
 # Connections diagram
 Verify these connections  are correctly done for arduino board and perifericos.
+The same bus I2C is used for OLED and sensors.
 ![circuito](circuito.jpg)
 
 # Instructional video available on youtube
